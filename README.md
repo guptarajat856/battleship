@@ -1,4 +1,4 @@
-# battleship
+# Battleship Game - Low level system design
 
 Golang version of https://github.com/anomaly2104/battleship-game-low-level-design
 
